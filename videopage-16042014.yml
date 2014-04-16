@@ -1,1 +1,62 @@
-hgjh
+Project/Name(zB.Orderflow):               "Infopages 1.0"
+      title:                              "Videopage"                          
+          page headline:                  "Lernvideos -  Verstehen. Wiederholen. Vertiefen."
+            
+          Intro Area:
+              # Video-Einbettung links daneben Introtext
+              Introtext:                  "Unsere altersgerechten Lernvideos erklären dir lehrplangerecht die Themen des Unterrichts in kurzen, anschaulichen Lerneinheiten. Mit unseren Videos kannst du einfach und gezielt in deinem eigenen Tempo lernen und auf diese Weise schnell dein persönliches Lernziel erreichen."
+              # Unter den Introtext, Konfig-Button, link to Contentpages 3rd Tab
+              Konfig-Button:              "Jetzt kostenlos testen" 
+                
+      # 2. topic complexe "Was unsere Lernvideos auszeichnet."
+        Topic complex:  
+            headline:                     "Was unsere Lernvideos auszeichnet."
+                1-paragraph:              "Lernvideos"
+                    wording:              "Bei sofatutor findest du prägnante und anschauliche Erklärungen zu deinen Unterrichtsinhalten. Unsere Videos vermitteln dir Schritt für Schritt, alles, was du zu einem bestimmten Thema wissen musst.  Durch kurze, rund fünfminütigen Lern- und Übungseinheiten, findest du dabei schnell und einfach genau die Inhalte, die zu deinem Leistungsniveau und Wissensstand passen. "
+                2-paragraph:               
+                    wording:     
+                3-paragraph:                 
+                    wording: 
+                4-paragraph:                 
+                    wording: 
+            
+      # 3. Award box 
+        Award box:
+          title: 
+              wording: 
+              
+     # 4. topic complexe "xxx"
+            subheadline:                        "Was unsere Lernvideos auszeichnet."
+              1-column:                 "Lernvideos"
+                wording:            "Bei sofatutor findest du prägnante und anschauliche Erklärungen zu deinen Unterrichtsinhalten. Unsere Videos vermitteln dir Schritt für Schritt, alles, was du zu einem bestimmten Thema wissen musst.  Durch kurze, rund fünfminütigen Lern- und Übungseinheiten, findest du dabei schnell und einfach genau die Inhalte, die zu deinem Leistungsniveau und Wissensstand passen. "
+              2-column:               
+                wording:     
+              3-column:                 
+                wording: 
+             
+      # 5. Guarantee Box  
+              title: 
+              wording: 
+            confirm form:
+            informationSection:           "Wie geht es nach dem Kauf weiter?"
+                  existing:               "Bestätigungsmail & Rechnung"
+                  zugangsdaten:           "Ihre Zugangsdaten"
+                  information:            "Im Anschluss an die Buchung, können Sie einen Benutzer einloggen auf sofatutor festlegen."
+                  videos_sofort:          "Sofort Videos schauen"
+            # Kommentar zu dem Part
+            payment_data_section:         "Ihre Daten"
+            
+             progress bar: 
+                  # payment information form
+                  step1:                  "Ihre Daten" 
+                  # confirm form Orderflow
+                  step2:                  "Überprüfen und Bestätigen" 
+                  step3:                  "Losrennen"
+                  
+            
+                  
+      # Benennung 
+      # bei komplexeren Seiten eventuelle absprache vorher mit tech
+      # test ob es überhaupt funktioniert, mit Infopages
+            
+            
