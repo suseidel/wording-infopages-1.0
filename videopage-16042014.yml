@@ -15,7 +15,7 @@ Project/Name(zB.Orderflow):               "Infopages 1.0"
                         wording:          "Bei sofatutor findest du prägnante und anschauliche Erklärungen zu deinen Unterrichtsinhalten. Unsere Videos vermitteln dir Schritt für Schritt, alles, was du zu einem bestimmten Thema wissen musst.  Durch kurze, rund fünfminütigen Lern- und Übungseinheiten, findest du dabei schnell und einfach genau die Inhalte, die zu deinem Leistungsniveau und Wissensstand passen. "
                   2-paragraph:            "Motivierend und altersgerecht."  
                         wording:          "Mit sofatutor macht Lernen Spaß! Unsere Videos sind  inhaltlich und didaktisch auf die einzelnen Klassenstufen abgestimmt. Handgezeichnete Illustrationen, eingängige Erklärungen und sympatische Sprecher bieten Schülern jeden Alters ein abwechslungsreiches und motivierendes Lernerlebnis. Kinderleichte Benutzbarkeit ermöglicht es auch jüngeren Schülern, eigenständig mit sofatutor zu lernen. Natürlich vollkommen werbefrei!"
-                  3-paragraph:             "Lehrplangerecht. Aktuell. Für alle Fächer und Klassenstufen."    
+                  3-paragraph:            "Lehrplangerecht. Aktuell. Für alle Fächer und Klassenstufen."    
                         wording:          "Wir bieten passende Inhalte zu den Lehrplänen aller deutschen Bundesländer, sowie der Schweiz und Österreich an. Egal ob Mathe oder Deutsch, mit einem sofatutor-Zugang hast du immer Zugriff auf alle Fächer und Klassenstufen.  Momentan unterstützen wir dich mit [10.000] Lernvideos und täglich kommen neue dazu. Du findest bei sofatutor also immer aktuelle Videos, die sich mit deinem Schulstoff beschäftigen."
                   4-paragraph:            "Fachlich und didaktisch geprüft. Von Experten."               
                         wording:          "Jedem neuen Video liegt ein klares fachliches Konzept und ein Drehbuch zugrunde. Beides entsteht in Zusammenarbeit zwischen erfahrenen Lehrern und unseren Fach-Experten. Wie ein Lehrbuch durchläuft jedes unserer Lernvideos so schon vor der Produktion, eine aufwendige redaktionelle Prüfung. Auch danach begleiten unsere Experten kontinuierlich den mehrwöchigen Erstellungsprozess aus Illustration, Animation und Vertonung bis zur abschließenden Prüfung und Freischaltung des Lernvideos für unsere Nutzer."
@@ -43,5 +43,72 @@ Project/Name(zB.Orderflow):               "Infopages 1.0"
       # 6. info-CE  
       # 7. Deeplink - Overview ipad tool
       # standard footer
+       
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------      
+      
+      Project/Name:                       "Infopages 1.0"
+            title:                        "Videopage"                          
+                  page headline:          "Lernvideos -  Verstehen. Wiederholen. Vertiefen."
+                  intro-area:
+                        # Video-Einbettung links daneben Introtext
+                        introtext:        "Unsere altersgerechten Lernvideos erklären dir lehrplangerecht die Themen des Unterrichts in kurzen, anschaulichen Lerneinheiten. Mit unseren Videos kannst du einfach und gezielt in deinem eigenen Tempo lernen und auf diese Weise schnell dein persönliches Lernziel erreichen."
+                        # Unter den Introtext, Konfig-Button, link to Contentpages 3rd Tab
+                        config-button:    "Jetzt kostenlos testen" 
+                
+      # 2. Topic complex "Was unsere Lernvideos auszeichnet."
+            topic-complex-1:  
+                  
+                  headline:               "Was unsere Lernvideos auszeichnet."
+                  
+                  paragraph-1:            
+                        headline:         "Lernvideos"
+                        wording:          "Bei sofatutor findest du prägnante und anschauliche Erklärungen zu deinen Unterrichtsinhalten. Unsere Videos vermitteln dir Schritt für Schritt, alles, was du zu einem bestimmten Thema wissen musst.  Durch kurze, rund fünfminütigen Lern- und Übungseinheiten, findest du dabei schnell und einfach genau die Inhalte, die zu deinem Leistungsniveau und Wissensstand passen. "
+                  
+                  paragraph-2:            
+                        headline:         "Motivierend und altersgerecht."  
+                        wording:          "Mit sofatutor macht Lernen Spaß! Unsere Videos sind  inhaltlich und didaktisch auf die einzelnen Klassenstufen abgestimmt. Handgezeichnete Illustrationen, eingängige Erklärungen und sympatische Sprecher bieten Schülern jeden Alters ein abwechslungsreiches und motivierendes Lernerlebnis. Kinderleichte Benutzbarkeit ermöglicht es auch jüngeren Schülern, eigenständig mit sofatutor zu lernen. Natürlich vollkommen werbefrei!"
+                  
+                  paragraph-3:            
+                        headline:         "Lehrplangerecht. Aktuell. Für alle Fächer und Klassenstufen."    
+                        wording:          "Wir bieten passende Inhalte zu den Lehrplänen aller deutschen Bundesländer, sowie der Schweiz und Österreich an. Egal ob Mathe oder Deutsch, mit einem sofatutor-Zugang hast du immer Zugriff auf alle Fächer und Klassenstufen.  Momentan unterstützen wir dich mit [10.000] Lernvideos und täglich kommen neue dazu. Du findest bei sofatutor also immer aktuelle Videos, die sich mit deinem Schulstoff beschäftigen."
+                  
+                  paragraph-4:
+                        headline:         "Fachlich und didaktisch geprüft. Von Experten."               
+                        wording:          "Jedem neuen Video liegt ein klares fachliches Konzept und ein Drehbuch zugrunde. Beides entsteht in Zusammenarbeit zwischen erfahrenen Lehrern und unseren Fach-Experten. Wie ein Lehrbuch durchläuft jedes unserer Lernvideos so schon vor der Produktion, eine aufwendige redaktionelle Prüfung. Auch danach begleiten unsere Experten kontinuierlich den mehrwöchigen Erstellungsprozess aus Illustration, Animation und Vertonung bis zur abschließenden Prüfung und Freischaltung des Lernvideos für unsere Nutzer."
             
+      # 3. Award box 
+            award box:
+            
+                  headline:               "Mehrfach ausgezeichnet."
+                  wording:                "Die Qualität unseres Angebots wurde bereits mit einer Reihe von Bildungspreisen ausgezeichnet. "
+              
+     # 4. Topic complex "So verbesserst du deine Noten mit unseren Lernvideos."
+            topic-complex-2      
+                  
+                  headline:               "So verbesserst du deine Noten mit unseren Lernvideos."
+                  
+                  1-column: 
+                        headline:         "Lernen im eigenen Tempo."
+                        wording:          "Kennst du das? Du würdest dich gern auf den Unterricht konzentrieren, aber der Lehrer ist einfach zu schnell?  Mit sofatutor kannst du in deinem eigenen Tempo lernen: unsere Lernvideos sind jederzeit pausierbar, beliebig oft wiederholbar und erklären einleuchtend die Themen aus Schule und Uni. So verstehst du, was wichtig ist, ohne lange über deinen Aufzeichnungen aus dem Unterricht zu brüten.  "
+                  
+                  2-column:
+                        headline:         "Gezielt lernen und schneller voran kommen."           
+                        wording:          "Mit sofatutor findest du ganz einfach Inhalte, die zu deinen Unterrichtsthemen und deinem Wissensstand passen. Jedes unserer Videos erklärt dir dabei kurz und prägnant eine bestimmte Fragestellung. Du kannst Wissenslücken schließen, den Unterrichsstoff wiederholen oder dein Wissen mit Übungsvideos festigen. So erreichst du garantiert dein persönliches Lernziel. "
+                  
+                  3-column: 
+                        headline:         "Unterstützung in allen Lernsituationen."                 
+                        wording:          "sofatutor unterstützt dich nicht nur beim wiederholen und vertiefen, sondern auch bei der Vorbereitung von Klassenarbeiten und Klausuren. Zusätzlich bieten zu den wichtigsten Ereignissen der Schullaufbahn an jedes Bundesland angepasste Vorbereitungskurse an: Wir unterstützen dich gezielt bei Schulwechsel, MSA/Mittlere Reife, Abitur, sowie bei der Vorbereitung auf die Uni. "
+             
+      # 5. Guarantee Box  
+            guarantee-box 
+                  
+                  headline:               "Bessere Noten garantiert."
+                  wording:                "Wer regelmäßig mit unseren Videos lernt, wird seine Noten verbessern. Grantiert!"
+                  Link:                   "Mehr Informationen" #link to https://www.sofatutor.com/about/pricing/12-monats-abo
+            
+                  
+      # 6. info-CE  
+      # 7. Deeplink - Overview ipad tool
+      # Standart footer
+                 
             
