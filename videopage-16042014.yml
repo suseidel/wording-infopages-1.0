@@ -48,7 +48,7 @@ Project/Name(zB.Orderflow):               "Infopages 1.0"
       
       Project/Name:                       "Infopages 1.0"
             title:                        "Videopage"                          
-                  page headline:          "Lernvideos -  Verstehen. Wiederholen. Vertiefen."
+                  <b>page headline:</b>          "Lernvideos -  Verstehen. Wiederholen. Vertiefen."
                   intro-area:
                         # Video-Einbettung links daneben Introtext
                         introtext:        "Unsere altersgerechten Lernvideos erklären dir lehrplangerecht die Themen des Unterrichts in kurzen, anschaulichen Lerneinheiten. Mit unseren Videos kannst du einfach und gezielt in deinem eigenen Tempo lernen und auf diese Weise schnell dein persönliches Lernziel erreichen."
