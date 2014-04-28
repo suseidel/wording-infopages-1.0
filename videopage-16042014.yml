@@ -47,15 +47,17 @@ Project/Name(zB.Orderflow):               "Infopages 1.0"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------      
       
       Project/Name:                       "Infopages 1.0"
-            title:                        "Videopage"                          
-                  <b>page headline:</b>          "Lernvideos -  Verstehen. Wiederholen. Vertiefen."
+      title:                              "Videopage"                          
+            # 1. Top Part
+            top-part:      
+                  page headline:          "Lernvideos -  Verstehen. Wiederholen. Vertiefen."
                   intro-area:
                         # Video-Einbettung links daneben Introtext
                         introtext:        "Unsere altersgerechten Lernvideos erklären dir lehrplangerecht die Themen des Unterrichts in kurzen, anschaulichen Lerneinheiten. Mit unseren Videos kannst du einfach und gezielt in deinem eigenen Tempo lernen und auf diese Weise schnell dein persönliches Lernziel erreichen."
                         # Unter den Introtext, Konfig-Button, link to Contentpages 3rd Tab
                         config-button:    "Jetzt kostenlos testen" 
                 
-      # 2. Topic complex "Was unsere Lernvideos auszeichnet."
+            # 2. Topic complex "Was unsere Lernvideos auszeichnet."
             topic-complex-1:  
                   
                   headline:               "Was unsere Lernvideos auszeichnet."
@@ -76,13 +78,13 @@ Project/Name(zB.Orderflow):               "Infopages 1.0"
                         headline:         "Fachlich und didaktisch geprüft. Von Experten."               
                         wording:          "Jedem neuen Video liegt ein klares fachliches Konzept und ein Drehbuch zugrunde. Beides entsteht in Zusammenarbeit zwischen erfahrenen Lehrern und unseren Fach-Experten. Wie ein Lehrbuch durchläuft jedes unserer Lernvideos so schon vor der Produktion, eine aufwendige redaktionelle Prüfung. Auch danach begleiten unsere Experten kontinuierlich den mehrwöchigen Erstellungsprozess aus Illustration, Animation und Vertonung bis zur abschließenden Prüfung und Freischaltung des Lernvideos für unsere Nutzer."
             
-      # 3. Award box 
+            # 3. Award box 
             award box:
             
                   headline:               "Mehrfach ausgezeichnet."
                   wording:                "Die Qualität unseres Angebots wurde bereits mit einer Reihe von Bildungspreisen ausgezeichnet. "
               
-     # 4. Topic complex "So verbesserst du deine Noten mit unseren Lernvideos."
+            # 4. Topic complex "So verbesserst du deine Noten mit unseren Lernvideos."
             topic-complex-2      
                   
                   headline:               "So verbesserst du deine Noten mit unseren Lernvideos."
@@ -99,7 +101,7 @@ Project/Name(zB.Orderflow):               "Infopages 1.0"
                         headline:         "Unterstützung in allen Lernsituationen."                 
                         wording:          "sofatutor unterstützt dich nicht nur beim wiederholen und vertiefen, sondern auch bei der Vorbereitung von Klassenarbeiten und Klausuren. Zusätzlich bieten zu den wichtigsten Ereignissen der Schullaufbahn an jedes Bundesland angepasste Vorbereitungskurse an: Wir unterstützen dich gezielt bei Schulwechsel, MSA/Mittlere Reife, Abitur, sowie bei der Vorbereitung auf die Uni. "
              
-      # 5. Guarantee Box  
+            # 5. Guarantee Box  
             guarantee-box 
                   
                   headline:               "Bessere Noten garantiert."
@@ -107,8 +109,8 @@ Project/Name(zB.Orderflow):               "Infopages 1.0"
                   Link:                   "Mehr Informationen" #link to https://www.sofatutor.com/about/pricing/12-monats-abo
             
                   
-      # 6. info-CE  
-      # 7. Deeplink - Overview ipad tool
-      # Standart footer
+            # 6. Info-CE  
+            # 7. Deeplink - Overview ipad tool
+            # Standart footer
                  
             
