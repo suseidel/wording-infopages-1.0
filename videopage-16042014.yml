@@ -1,8 +1,8 @@
 Project/Name(zB.Orderflow):               "Infopages 1.0"
       title:                              "Videopage"                          
-            page headline:                "Lernvideos -  Verstehen. Wiederholen. Vertiefen."
+            page-headline:                "Lernvideos -  Verstehen. Wiederholen. Vertiefen."
             
-            Intro Area:
+            Intro area:
               # Video-Einbettung links daneben Introtext
                   Introtext:              "Unsere altersgerechten Lernvideos erklären dir lehrplangerecht die Themen des Unterrichts in kurzen, anschaulichen Lerneinheiten. Mit unseren Videos kannst du einfach und gezielt in deinem eigenen Tempo lernen und auf diese Weise schnell dein persönliches Lernziel erreichen."
               # Unter den Introtext, Konfig-Button, link to Contentpages 3rd Tab
@@ -48,12 +48,12 @@ Project/Name(zB.Orderflow):               "Infopages 1.0"
       
       Project/Name:                       "Infopages 1.0"
       title:                              "Videopage"                          
-            # 1. Top Part
+            # 1. Top Part 
             top-part:      
                   page-headline:          "Lernvideos -  Verstehen. Wiederholen. Vertiefen."
                   intro-area:
                         # Video-Einbettung links daneben Introtext
-                        introtext:        "Unsere altersgerechten Lernvideos erklären dir lehrplangerecht die Themen des Unterrichts in kurzen, anschaulichen Lerneinheiten. Mit unseren Videos kannst du einfach und gezielt in deinem eigenen Tempo lernen und auf diese Weise schnell dein persönliches Lernziel erreichen."
+                        intro-text:        "Unsere altersgerechten Lernvideos erklären dir lehrplangerecht die Themen des Unterrichts in kurzen, anschaulichen Lerneinheiten. Mit unseren Videos kannst du einfach und gezielt in deinem eigenen Tempo lernen und auf diese Weise schnell dein persönliches Lernziel erreichen."
                         # Unter den Introtext, Konfig-Button, link to Contentpages 3rd Tab
                         config-button:    "Jetzt kostenlos testen" 
                 
